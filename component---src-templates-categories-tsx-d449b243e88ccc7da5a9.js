@@ -1,0 +1,2 @@
+(self.webpackChunkahanbama=self.webpackChunkahanbama||[]).push([[848],{8960:function(a,n,t){"use strict";t.r(n),t.d(n,{default:function(){return u}});var e=t(7294);function u(a){return e.createElement("div",null,"Props Data: ",a.data.wpProductCategory.id)}}}]);
+//# sourceMappingURL=component---src-templates-categories-tsx-d449b243e88ccc7da5a9.js.map
